@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Hi,_I'm_Keerthishree-%237B2CBF?style=for-the-badge&logoColor=white&labelColor=7209B7"/>
 </h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600"/>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1200&color=BD93F9&center=true&vCenter=true&width=500&lines=Machine+Learning+%7C+Cloud+%7C+AI;Creating+Intelligent+and+Elegant+Solutions;Exploring+the+Art+of+Computation" alt="Typing animation"/>
