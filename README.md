@@ -5,8 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1200&color=BD93F9&center=true&vCenter=true&width=500&lines=Machine+Learning+%7C+Cloud+%7C+AI;Creating+Intelligent+and+Elegant+Solutions;Exploring+the+Art+of+Computation" alt="Typing animation"/>
 </p>
-  
-  <img src="https://raw.githubusercontent.com/Keerthishree/profile/main/assets/gif.gif" width="120">
 
 <p align="center">
   <hr style="border:0;height:2px;background:linear-gradient(90deg, #7B2CBF, #FF6BA1, #0D1117); width:100%;">
