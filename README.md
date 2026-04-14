@@ -1,5 +1,6 @@
 <h1 align="center">
   <img src="https://img.shields.io/badge/Hi,_I'm_Keerthishree-%237B2CBF?style=for-the-badge&logoColor=white&labelColor=7209B7"/>
+   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100">
 </h1>
 
 <p align="center">
@@ -26,7 +27,8 @@
 
 
 <h3 align="center">Tech Stack</h3>
-
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
+<br><br>
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-2E0249?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-5A189A?style=for-the-badge&logo=java&logoColor=white"/>
@@ -39,8 +41,7 @@
   <img src="https://img.shields.io/badge/-AWS-3A0CA3?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Advanced+Excel-9D4EDD?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> 
 </p>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
-<br><br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-302b63?style=for-the-badge&logo=tensorflow&logoColor=ffb6c1"/>
   <img src="https://img.shields.io/badge/PyTorch-5a189a?style=for-the-badge&logo=pytorch&logoColor=ffb6c1"/>
