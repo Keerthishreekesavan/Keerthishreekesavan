@@ -1,9 +1,7 @@
 <h1 align="center">
   <img src="https://img.shields.io/badge/Hi,_I'm_Keerthishree-%237B2CBF?style=for-the-badge&logoColor=white&labelColor=7209B7"/>
 </h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600"/>
-</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1200&color=BD93F9&center=true&vCenter=true&width=500&lines=Machine+Learning+%7C+Cloud+%7C+AI;Creating+Intelligent+and+Elegant+Solutions;Exploring+the+Art+of+Computation" alt="Typing animation"/>
 </p>
@@ -41,7 +39,8 @@
   <img src="https://img.shields.io/badge/-AWS-3A0CA3?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Advanced+Excel-9D4EDD?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> 
 </p>
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
+<br><br>
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-302b63?style=for-the-badge&logo=tensorflow&logoColor=ffb6c1"/>
   <img src="https://img.shields.io/badge/PyTorch-5a189a?style=for-the-badge&logo=pytorch&logoColor=ffb6c1"/>
