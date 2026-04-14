@@ -26,8 +26,6 @@
 
 
 <h3 align="center">Tech Stack</h3>
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
-<br><br>
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-2E0249?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-5A189A?style=for-the-badge&logo=java&logoColor=white"/>
