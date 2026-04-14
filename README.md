@@ -80,5 +80,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=80&section=footer"/>
 </p>
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="100">
