@@ -1,10 +1,7 @@
-<h1 align="center">
-  <img src="https://img.shields.io/badge/Hi,_I'm_Keerthishree-%237B2CBF?style=for-the-badge&logoColor=white&labelColor=7209B7" 
-       style="vertical-align: middle;" />
-  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" 
-       width="100" 
-       style="vertical-align: middle;" />
-</h1>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://img.shields.io/badge/Hi,_I'm_Keerthishree-%237B2CBF?style=for-the-badge&logoColor=white&labelColor=7209B7"/>
+  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100"/>
+</div>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1200&color=BD93F9&center=true&vCenter=true&width=500&lines=Machine+Learning+%7C+Cloud+%7C+AI;Creating+Intelligent+and+Elegant+Solutions;Exploring+the+Art+of+Computation" alt="Typing animation"/>
 </p>
