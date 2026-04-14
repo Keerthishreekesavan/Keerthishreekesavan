@@ -14,6 +14,9 @@
   <hr style="border:0;height:2px;background:linear-gradient(90deg, #7B2CBF, #FF6BA1, #0D1117); width:100%;">
 </p>
 
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100">
+</p>
 <table align="center">
 <tr>
 <td align="center" style="background:#2c1f3b; border-radius:12px; padding:15px; margin:5px;">
@@ -65,9 +68,6 @@
   <img src="https://img.shields.io/badge/JavaScript-7209B7?style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
 
-<p align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100">
-</p>
 
 <h3 align="center">Connect</h3>
 <p align="center">
