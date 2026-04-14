@@ -65,8 +65,11 @@
   <img src="https://img.shields.io/badge/JavaScript-7209B7?style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
 
-<h3 align="center">Connect</h3>
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100">
+</p>
 
+<h3 align="center">Connect</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/keerthishreekesavan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2f0743?style=for-the-badge&logo=linkedin&logoColor=ffb6c1"/></a>
   <a href="mailto:keerthishreekesavan@gmail.com"><img src="https://img.shields.io/badge/Email-5a189a?style=for-the-badge&logo=gmail&logoColor=ffb6c1"/></a>
@@ -74,8 +77,7 @@
 </p>
 
 <p align="center">
- <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="100"> -->
-    <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="100"> 
 </p>
 
 <p align="center">
