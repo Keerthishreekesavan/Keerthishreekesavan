@@ -1,9 +1,13 @@
-<h1 align="center">
-  <img src="https://img.shields.io/badge/Hi,_I'm_Keerthishree-%237B2CBF?style=for-the-badge&logoColor=white&labelColor=7209B7"/>
-  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"
-       width="85"
-       style="position: relative; top: 16px; margin-left: 8px;"/>
-</h1>
+<p align="center">
+  <span style="display: inline-flex; align-items: center; gap: 10px;">
+    
+    <img src="https://img.shields.io/badge/Hi,_I'm_Keerthishree-%237B2CBF?style=for-the-badge&logoColor=white&labelColor=7209B7"/>
+    
+    <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"
+         width="85"/>
+         
+  </span>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1200&color=BD93F9&center=true&vCenter=true&width=500&lines=Machine+Learning+%7C+Cloud+%7C+AI;Creating+Intelligent+and+Elegant+Solutions;Exploring+the+Art+of+Computation" alt="Typing animation"/>
