@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://img.shields.io/badge/Hi,_I'm_Keerthishree-%237B2CBF?style=for-the-badge&logoColor=white&labelColor=7209B7"/>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="100">
+   <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100">  
 </h1>
 
 <p align="center">
