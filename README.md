@@ -121,16 +121,20 @@
 # 🚀 Featured Projects
 
 ### 🛡️ Review Guard
-AI-powered review moderation platform (React, Node.js, MongoDB, Redis, LLMs)
+AI-powered review moderation platform for detecting toxic, spam, and harmful content in real-time using hybrid LLM classification, embeddings, and rule-based filters.
+Tech Stack: React, Node.js, MongoDB, Redis, BullMq, Socket.io, LLMs, Hugging face, TD-IFD
 
 ### ❤️ Heart Disease Prediction
-Explainable AI system (Python, SHAP, AutoML)
+AutoML with Explainable AI (XAI) system for predicting heart disease risk with interpretable outputs for medical insights.
+Tech Stack: Python, Scikit-learn, SHAP, AutoML, Streamlit
 
 ### 🚦 RL Traffic Optimization
-Reinforcement Learning traffic optimization (Q-learning, Policy Gradient)
+Reinforcement Learning system that optimizes traffic signals to reduce congestion and improve flow efficiency.
+Tech Stack: Python, Q-Learning, Policy Gradient, React
 
 ### ☁️ AutoVerify
-AWS-based verification system (Lambda, Textract, Rekognition)
+AWS-based automated document verification system using AI services for fast and secure identity validation.
+Tech Stack: AWS Lambda, Textract, Rekognition, S3, DynamoDB
 
 ---
 # Research Publication 📄
