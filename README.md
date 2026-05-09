@@ -20,6 +20,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="90">
 </p>
 
+
 <div align="center">
   
 # 🎀 About Me
@@ -118,23 +119,23 @@
 </p>
 
 ---
-# 🚀 Featured Projects
+#  Featured Projects 🚀
 
 ### 🛡️ Review Guard
-AI-powered review moderation platform for detecting toxic, spam, and harmful content in real-time using hybrid LLM classification, embeddings, and rule-based filters.
-Tech Stack: React, Node.js, MongoDB, Redis, BullMq, Socket.io, LLMs, Hugging face, TD-IFD
+AI-powered review moderation platform for detecting toxic, spam, and harmful content in real-time using hybrid LLM, embeddings, and regex.<br>
+**Tech Stack:** React, Node.js, MongoDB, Redis, BullMq, Socket.io, LLMs, Hugging face, TD-IFD
 
 ### ❤️ Heart Disease Prediction
-AutoML with Explainable AI (XAI) system for predicting heart disease risk with interpretable outputs for medical insights.
-Tech Stack: Python, Scikit-learn, SHAP, AutoML, Streamlit
+AutoML with Explainable AI (XAI) system for predicting heart disease risk with interpretable outputs for medical insights.<br>
+**Tech Stack:** Python, Scikit-learn, SHAP, AutoML, Streamlit
 
 ### 🚦 RL Traffic Optimization
-Reinforcement Learning system that optimizes traffic signals to reduce congestion and improve flow efficiency.
-Tech Stack: Python, Q-Learning, Policy Gradient, React
+Reinforcement Learning system that optimizes traffic signals to reduce congestion and improve flow efficiency.<br>
+**Tech Stack:** Python, Q-Learning, Policy Gradient, React
 
 ### ☁️ AutoVerify
-AWS-based automated document verification system using AI services for fast and secure identity validation.
-Tech Stack: AWS Lambda, Textract, Rekognition, S3, DynamoDB
+AWS-based automated document verification system using AI services for fast and secure identity validation.<br>
+**Tech Stack:** AWS Lambda, Textract, Rekognition, S3, DynamoDB
 
 ---
 # Research Publication 📄
@@ -161,7 +162,7 @@ Hybrid SVM–Naive Bayes Ensemble with LIME and SHAP for Transparent Air Quality
 > Developed a hybrid **SVM–Gaussian Naive Bayes** ensemble model for AQI and health risk prediction with **96.2% classification accuracy**, integrating **LIME** and **SHAP** for transparent and interpretable AI-driven decision making.
 
 ---
-# 🏆 Achievements & Certifications
+#  Achievements & Certifications 🏆
 
 <table>
 
