@@ -119,7 +119,7 @@
 </p>
 
 ---
-#  Featured Projects 🚀
+#  Featured Projects </>
 
 ### 🛡️ Review Guard
 AI-powered review moderation platform for detecting toxic, spam, and harmful content in real-time using hybrid LLM, embeddings, and regex.<br>
@@ -185,7 +185,7 @@ Earned the <b>AWS Academy Machine Learning Foundations Digital Badge</b> coverin
 <tr>
 <td width="50%" valign="top">
 
-<h3>IBM Z Day 2025 — IBM Z Skills</h3>
+<h3>IBM Z Day 2025 - IBM Z Skills</h3>
 Received the <b>IBM Z Skills Digital Badge</b> for participation and learning in enterprise computing technologies.
 
 </td>
@@ -193,8 +193,8 @@ Received the <b>IBM Z Skills Digital Badge</b> for participation and learning in
 <td width="50%" valign="top">
 
 <h3>NPTEL Certifications 🥇🥈</h3>
-<b>Soft Skill Development:</b> 90% (Elite + Gold) — Top 1%<br>
-<b>Effective Writing:</b> 87% (Elite + Silver) — Top 5%
+<b>Soft Skill Development:</b> 90% (Elite + Gold) - Top 1%<br>
+<b>Effective Writing:</b> 87% (Elite + Silver) - Top 5%
 
 </td>
 </tr>
@@ -225,7 +225,7 @@ Organized and coordinated technical events including <b>Tech Expo</b>, <b>Resear
 
 <td width="50%" valign="top">
 
-<h3>NCC Certified — Lance Corporal</h3>
+<h3>NCC Certified - Lance Corporal</h3>
 Achieved <b>NCC Certificate ‘A’ (Grade A)</b> and served as <b>Lance Corporal (LCPL)</b> under <b>13 (TN) BN NCC</b>.
 
 </td>
@@ -235,7 +235,7 @@ Achieved <b>NCC Certificate ‘A’ (Grade A)</b> and served as <b>Lance Corpora
 </table>
 
 ---
-<h3 align="center">Connect</h3>
+<h3 align="center">Let's Connect</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/keerthishreekesavan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2f0743?style=for-the-badge&logo=linkedin&logoColor=ffb6c1"/></a>
   <a href="mailto:keerthishreekesavan@gmail.com"><img src="https://img.shields.io/badge/Email-5a189a?style=for-the-badge&logo=gmail&logoColor=ffb6c1"/></a>
