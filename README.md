@@ -45,9 +45,9 @@
       <img src="https://img.shields.io/badge/Performance-Consistent-7B2CBF?style=for-the-badge"/>
     </td>
     <td align="center">
-       Machine Learning<br>
-       Explainable AI<br>
-       Full Stack Development<br><br>
+       Machine Learning and XAI<br>
+       Full Stack Development<br>
+       LLMs and Cloud Services<br><br>
       <img src="https://img.shields.io/badge/Focus-Engineer-5A189A?style=for-the-badge"/>
     </td>
   </tr>
