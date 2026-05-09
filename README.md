@@ -119,23 +119,17 @@
 </p>
 
 ---
-#  Featured Projects </>
+#  Featured Projects 🚀
 
-### 🛡️ Review Guard
-AI-powered review moderation platform for detecting toxic, spam, and harmful content in real-time using hybrid LLM, embeddings, and regex.<br>
-**Tech Stack:** React, Node.js, MongoDB, Redis, BullMq, Socket.io, LLMs, Hugging face, TD-IFD
+⤷ **Review Guard** – AI moderation system (LLMs + embeddings + regex), async pipeline with BullMQ + Redis reducing API latency by **~90–95% (1.2s → <100ms)** <br>
 
-### ❤️ Heart Disease Prediction
-AutoML with Explainable AI (XAI) system for predicting heart disease risk with interpretable outputs for medical insights.<br>
-**Tech Stack:** Python, Scikit-learn, SHAP, AutoML, Streamlit
-
-### 🚦 RL Traffic Optimization
-Reinforcement Learning system that optimizes traffic signals to reduce congestion and improve flow efficiency.<br>
-**Tech Stack:** Python, Q-Learning, Policy Gradient, React
-
-### ☁️ AutoVerify
-AWS-based automated document verification system using AI services for fast and secure identity validation.<br>
-**Tech Stack:** AWS Lambda, Textract, Rekognition, S3, DynamoDB
+⤷ **Heart Disease Prediction** – Explainable AI AutoML system with **76% validation accuracy** (SHAP, medical insights)<br> 
+  
+⤷ **RL Traffic Optimization** – **45%** congestion reduction using Reinforcement Learning and **83%** faster emergency response times <br> 
+  
+⤷ **Hybrid SVM–Naive Bayes AQI Predictor** – **96.2% accuracy** + 13th IEEE (ISED 2025) paper publication <br> 
+  
+⤷ **AutoVerify** – AWS-based document verification system (Textract + Rekognition + Lambda + DynamoDB + S3)
 
 ---
 # Research Publication 📄
