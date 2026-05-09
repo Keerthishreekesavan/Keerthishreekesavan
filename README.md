@@ -1,85 +1,114 @@
-<h1 align="center"> 
-  <img src="https://img.shields.io/badge/Hi,_I'm_Keerthishree-%237B2CBF?style=for-the-badge&logoColor=white&labelColor=7209B7"/> 
-  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100"> 
+<h1 align="center">
+  Hi, I'm Keerthishree 👋
 </h1>
+
+<h3 align="center">
+Building AI-native systems & scalable full-stack applications
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1200&color=BD93F9&center=true&vCenter=true&width=500&lines=Machine+Learning+%7C+Cloud+%7C+AI;Creating+Intelligent+and+Elegant+Solutions;Exploring+the+Art+of+Computation" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1200&color=BD93F9&center=true&vCenter=true&width=700&lines=LLMs+%7C+Full-Stack+AI+%7C+Cloud;Building+intelligent+real-world+systems;Exploring+AI%2C+automation+%26+scalable+architecture" />
 </p>
 
+---
+
 <p align="center">
-  <img src="gif.gif" width="100%"/>
+  <img src="gif.gif" width="100%" />
 </p>
 
-<p align="center">
-  <hr style="border:0;height:2px;background:linear-gradient(90deg, #7B2CBF, #FF6BA1, #0D1117); width:100%;">
-</p>
+---
 
-<p align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100">
-</p>
-<table align="center">
-<tr>
-<td align="center" style="background:#2c1f3b; border-radius:12px; padding:15px; margin:5px;">
-<b>Curious & Creative</b><br>Exploring tech and design intersections.
-</td>
-<td align="center" style="background:#3b1f5c; border-radius:12px; padding:15px; margin:5px;">
-<b>AI & ML Enthusiast</b><br>Building intelligent systems with ML & AI.
-</td>
-<td align="center" style="background:#501f7a; border-radius:12px; padding:15px; margin:5px;">
-<b>Cloud & Web</b><br>Exploring AWS & modern web technologies.
-</td>
-</tr>
-</table>
+## About Me
 
+🎓 B.Tech CSE (AI & ML) Student  
+💡 Passionate about building intelligent systems using AI, LLMs, and scalable full-stack technologies  
+⚡ Interested in NLP, Generative AI, automation, cloud systems, and real-world impact  
 
-<h3 align="center">Tech Stack</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-2E0249?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Java-5A189A?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C-6A0572?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C++-7B2CBF?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-HTML-F72585?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS-B5179E?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-7209B7?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Node.js-560BAD?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-AWS-3A0CA3?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Advanced+Excel-9D4EDD?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> 
-</p>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-302b63?style=for-the-badge&logo=tensorflow&logoColor=ffb6c1"/>
-  <img src="https://img.shields.io/badge/PyTorch-5a189a?style=for-the-badge&logo=pytorch&logoColor=ffb6c1"/>
-  <img src="https://img.shields.io/badge/NumPy-5a189a?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-9d4edd?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-7b2cbf?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-6a0572?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-7209B7?style=for-the-badge&logo=seaborn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-560BAD?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NoSQL-3A0CA3?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+## Technical Skills
 
-<h3 align="center">Languages Used</h3>
-
-<p align="center">
+### 💻 Languages
+<p>
   <img src="https://img.shields.io/badge/Python-2E0249?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-5A189A?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C-6A0572?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-7B2CBF?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-7209B7?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-5A189A?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-7B2CBF?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-9D4EDD?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
-
-<h3 align="center">Connect</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/keerthishreekesavan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2f0743?style=for-the-badge&logo=linkedin&logoColor=ffb6c1"/></a>
-  <a href="mailto:keerthishreekesavan@gmail.com"><img src="https://img.shields.io/badge/Email-5a189a?style=for-the-badge&logo=gmail&logoColor=ffb6c1"/></a>
-  <a href="https://github.com/Keerthishreekesavan"><img src="https://img.shields.io/badge/GitHub-302b63?style=for-the-badge&logo=github&logoColor=ffb6c1"/></a>
+### 🤖 AI / ML
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-302b63?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-5a189a?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-7b2cbf?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-7209B7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-560BAD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TF--IDF-3A0CA3?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="100"> 
+### 🌐 Full Stack
+<p>
+  <img src="https://img.shields.io/badge/React-5A189A?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-7209B7?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-560BAD?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-7B2CBF?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-9D4EDD?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 </p>
 
+### ☁️ Cloud & Tools
+<p>
+  <img src="https://img.shields.io/badge/AWS-302b63?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-5A189A?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BullMQ-7B2CBF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-9D4EDD?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-7209B7?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## Featured Projects
+
+### 🔹 ReviewGuard
+AI-native moderation platform using LLMs, semantic embeddings, and deterministic filtering for intelligent content moderation.
+
+### 🔹 Enterprise AI Access System
+Full-stack MERN platform with RBAC, authentication, and Gemini AI integration for enterprise workflows.
+
+### 🔹 Food Classification AI
+Deep learning-powered food recognition system with calorie analysis, health insights, and recommendations.
+
+### 🔹 COVID ML Analytics
+Machine learning project for predictive analytics and visualization of COVID-19 regional trends in India.
+
+---
+
+## Achievements
+
+🏆 NPTEL Elite + Gold — Top 1%  
+🏆 NPTEL Elite + Silver — Top 5%  
+💻 Active LeetCode Problem Solver  
+📚 Exploring advanced AI systems, cloud infrastructure, and scalable architectures  
+
+---
+
+## Connect With Me
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=80&section=footer"/>
+  <a href="https://www.linkedin.com/in/keerthishreekesavan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-2f0743?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:keerthishreekesavan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-5a189a?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Keerthishreekesavan">
+    <img src="https://img.shields.io/badge/GitHub-302b63?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=90&section=footer"/>
 </p>
