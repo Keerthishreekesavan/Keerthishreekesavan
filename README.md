@@ -38,10 +38,10 @@
       <img src="https://img.shields.io/badge/Status-Student-9D4EDD?style=for-the-badge"/>
     </td>
     <td align="center">
-       <b>CGPA</b><br>
-      <code>9.0 / 10 </code><br><br>
        <b>GPA</b><br>
       <code>9.8 / 10 </code><br><br>
+       <b>CGPA</b><br>
+      <code>9.0 / 10 </code><br><br>
       <img src="https://img.shields.io/badge/Performance-Consistent-7B2CBF?style=for-the-badge"/>
     </td>
     <td align="center">
